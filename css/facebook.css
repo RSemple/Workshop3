@@ -127,6 +127,10 @@ body {
   color: #5990ff;
 }
 
+.fb-trending >  .glyphicon-flash {
+  color: #5990ff;
+}
+
 
 /* Makes links dark blue, even if they have been visited. (By default, the
    browser will change the look of visited links.) */
